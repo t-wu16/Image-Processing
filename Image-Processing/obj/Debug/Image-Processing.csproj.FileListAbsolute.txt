@@ -1,0 +1,16 @@
+F:\C#\Image-Processing-GUI\Image-Processing\Image-Processing\bin\Debug\Image-Processing.exe
+F:\C#\Image-Processing-GUI\Image-Processing\Image-Processing\bin\Debug\Image-Processing.pdb
+F:\C#\Image-Processing-GUI\Image-Processing\Image-Processing\obj\Debug\Image-Processing.csprojResolveAssemblyReference.cache
+F:\C#\Image-Processing-GUI\Image-Processing\Image-Processing\obj\Debug\Image_Processing.Form1.resources
+F:\C#\Image-Processing-GUI\Image-Processing\Image-Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+F:\C#\Image-Processing-GUI\Image-Processing\Image-Processing\obj\Debug\Image-Processing.csproj.GenerateResource.Cache
+F:\C#\Image-Processing-GUI\Image-Processing\Image-Processing\obj\Debug\Image-Processing.exe
+F:\C#\Image-Processing-GUI\Image-Processing\Image-Processing\obj\Debug\Image-Processing.pdb
+F:\C#\Image-Processing\Image-Processing\obj\Debug\Image-Processing.exe
+F:\C#\Image-Processing\Image-Processing\obj\Debug\Image-Processing.pdb
+F:\C#\Image-Processing\Image-Processing\bin\Debug\Image-Processing.exe
+F:\C#\Image-Processing\Image-Processing\bin\Debug\Image-Processing.pdb
+F:\C#\Image-Processing\Image-Processing\obj\Debug\Image-Processing.csprojResolveAssemblyReference.cache
+F:\C#\Image-Processing\Image-Processing\obj\Debug\Image_Processing.Form1.resources
+F:\C#\Image-Processing\Image-Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+F:\C#\Image-Processing\Image-Processing\obj\Debug\Image-Processing.csproj.GenerateResource.Cache
